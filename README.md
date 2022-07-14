@@ -1,0 +1,1 @@
+Lisra de atividades em pyhton feitas no curso de desenvolvimento de sistemas 
